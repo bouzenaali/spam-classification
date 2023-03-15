@@ -11,4 +11,4 @@ Before you can run the code in this project, you will need to have the following
     Pandas
     NumPy
 
-To run the code, simply open the spam_classification.ipynb file in Jupyter Notebook and run each cell in order. 
+To run the code, simply open the **spam_classification.ipynb** file in Jupyter Notebook and run each cell in order. 
