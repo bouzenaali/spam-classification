@@ -3,6 +3,8 @@ This is a project that uses machine learning algorithms to classify emails as ei
 
 The tutorial link : https://youtu.be/YncZ0WwxyzU
 
+### Run the code
+
 Before you can run the code in this project, you will need to have the following installed:
 
     Python 3.x
@@ -12,3 +14,11 @@ Before you can run the code in this project, you will need to have the following
     NumPy
 
 To run the code, simply open the **spam_classification.ipynb** file in Jupyter Notebook and run each cell in order. 
+
+### Test the model
+
+before testing the test the model you will need to have **streamlit**
+
+to test the model simply open **app.py** and run this on your terminal 
+    
+    streamlit run app.py
